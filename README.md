@@ -22,7 +22,7 @@ You are not allowed to collaborate during the sprint challenge.
 
 ### Introduction
 
-In this challenge you will create a web page that presents a styled list of characters obtained from an API. Being able to render out data to a web page is a large part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
+iIn this challenge you will create a web page that presents a styled list of characters obtained from an API. Being able to render out data to a web page is a large part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
 
 In meeting the minimum viable product (MVP) specifications listed below, your project might look somewhat similar to the solution examples below:
 
@@ -41,7 +41,7 @@ Your finished project must include all of the following requirements:
   1. Build a React component named 'Character' to render an individual character.
   1. Map over the list in state, and for each character render a Character to the page.
   1. Each rendered character must display its name in the DOM (e.g. "Luke Skywalker").
-  1. The character's name can't be hard-coded into the HTML. This data must be obtained from the API.
+  1. The character's name can't be hard-coded into the HTML. This data must be obtaned from the API.
   1. The components must be styled with **styled-components**.
 
   **Notes:**
